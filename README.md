@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/75077046/193934164-20a1e4c3-33cd-4e69-
 - Turtle (animação)
 - Pygame (música)
 
-OBS: É necessário instalar os dois módulas antes de tentar executar o algoritmo.
+OBS: É necessário instalar os dois módulos antes de tentar executar o algoritmo.
 
 # Como executar o projeto
 
